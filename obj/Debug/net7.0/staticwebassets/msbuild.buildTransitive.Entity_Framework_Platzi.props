@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Entity_Framework_Platzi.props" />
+</Project>
