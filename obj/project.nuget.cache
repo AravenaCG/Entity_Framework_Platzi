@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "g/4lgnth7FhjHHvjO+9aDIidVbu37s3nxiDgf0q61jSjJaNILqRobEaZgBizj1xmZZ/1cX7LvQzjG5EPdcQGCg==",
+  "dgSpecHash": "GEn0O54OOD0++gk/tve637VsmWIbRzWN5kiTJxm4AIekCWD1vUxJAobkZm2IYWOui2jf34OwhwuBPLFn1ZWE0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Exiuser\\Desktop\\Platzi\\DotNet\\Entity_Framework\\Entity_Framework_Platzi\\Entity_Framework_Platzi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Exiuser\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
     "C:\\Users\\Exiuser\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.3\\microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512",
     "C:\\Users\\Exiuser\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.3\\microsoft.entityframeworkcore.analyzers.7.0.3.nupkg.sha512",
+    "C:\\Users\\Exiuser\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.3\\microsoft.entityframeworkcore.inmemory.7.0.3.nupkg.sha512",
     "C:\\Users\\Exiuser\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Exiuser\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\Exiuser\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
