@@ -1,0 +1,6 @@
+C:\Users\Exiuser\Desktop\Platzi\DotNet\Entity_Framework\Entity_Framework_Platzi\obj\Debug\net7.0\Entity_Framework_Platzi.csproj.AssemblyReference.cache
+C:\Users\Exiuser\Desktop\Platzi\DotNet\Entity_Framework\Entity_Framework_Platzi\obj\Debug\net7.0\Entity_Framework_Platzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Exiuser\Desktop\Platzi\DotNet\Entity_Framework\Entity_Framework_Platzi\obj\Debug\net7.0\Entity_Framework_Platzi.AssemblyInfoInputs.cache
+C:\Users\Exiuser\Desktop\Platzi\DotNet\Entity_Framework\Entity_Framework_Platzi\obj\Debug\net7.0\Entity_Framework_Platzi.AssemblyInfo.cs
+C:\Users\Exiuser\Desktop\Platzi\DotNet\Entity_Framework\Entity_Framework_Platzi\obj\Debug\net7.0\Entity_Framework_Platzi.csproj.CoreCompileInputs.cache
+C:\Users\Exiuser\Desktop\Platzi\DotNet\Entity_Framework\Entity_Framework_Platzi\obj\Debug\net7.0\Entity_Framework_Platzi.MvcApplicationPartsAssemblyInfo.cache

@@ -18,6 +18,6 @@ namespace Entity_Framework_Platzi.Models
 
         public string Descripcion { get; set; }
 
-        public virtual ICollection<Tareas>  Tareas { get; set; }
+        public virtual ICollection<Tarea>  Tareas { get; set; }
     }
 }
