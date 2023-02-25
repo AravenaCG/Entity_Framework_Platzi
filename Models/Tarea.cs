@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Entity_Framework_Platzi.Models
 {
-    public class Tareas
+    public class Tarea
     {
         public Guid TareaId { get; set; }
         public Guid CategoriaId { get; set; }
