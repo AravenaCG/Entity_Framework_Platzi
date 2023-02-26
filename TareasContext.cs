@@ -22,6 +22,8 @@ namespace Entity_Framework_Platzi
                 categoria.HasKey(p => p.CategoriaId);
                 categoria.Property(p => p.Nombre).IsRequired().HasMaxLength(150);
                 categoria.Property(p => p.Descripcion);
+                categoria.Property(p=> p.Peso);
+
             });
 
             modelBuilder.Entity<Tarea>(tarea =>
