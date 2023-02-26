@@ -64,3 +64,8 @@ C:\Users\Exiuser\Desktop\Platzi\DotNet\Entity_Framework\Entity_Framework_Platzi\
 C:\Users\Exiuser\Desktop\Platzi\DotNet\Entity_Framework\Entity_Framework_Platzi\obj\Debug\net7.0\Entity_Framework_Platzi.pdb
 C:\Users\Exiuser\Desktop\Platzi\DotNet\Entity_Framework\Entity_Framework_Platzi\obj\Debug\net7.0\Entity_Framework_Platzi.genruntimeconfig.cache
 C:\Users\Exiuser\Desktop\Platzi\DotNet\Entity_Framework\Entity_Framework_Platzi\obj\Debug\net7.0\ref\Entity_Framework_Platzi.dll
+C:\Users\Exiuser\Desktop\Platzi\DotNet\Entity_Framework\Entity_Framework_Platzi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Exiuser\Desktop\Platzi\DotNet\Entity_Framework\Entity_Framework_Platzi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Exiuser\Desktop\Platzi\DotNet\Entity_Framework\Entity_Framework_Platzi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Exiuser\Desktop\Platzi\DotNet\Entity_Framework\Entity_Framework_Platzi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Exiuser\Desktop\Platzi\DotNet\Entity_Framework\Entity_Framework_Platzi\bin\Debug\net7.0\System.CodeDom.dll
