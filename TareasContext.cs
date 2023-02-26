@@ -13,5 +13,28 @@ namespace Entity_Framework_Platzi
         public DbSet<Tarea> Tareas { get; set; }
 
         public TareasContext(DbContextOptions<TareasContext> options) : base(options) { }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Categoria>(categoria=>{
+                categoria.ToTable("Categoria");
+                categoria.HasKey(p=> p.CategoriaId);
+                categoria.Property(p=> p.Nombre).IsRequired().HasMaxLength(150);
+                categoria.Property(p=>p.Descripcion);
+            });
+
+             modelBuilder.Entity<Tarea>(tarea=>{
+                tarea.HasOne(p=>p.Categoria).WithMany(p=>p.Tareas).HasForeignKey(p=>p.CategoriaId);
+                tarea.ToTable("Tarea");
+                tarea.HasKey(p=> p.TareaId);
+                tarea.Property(p=> p.Titulo).IsRequired().HasMaxLength(200);
+                tarea.Property(p=>p.Descripcion);
+                tarea.Property(p=>p.PrioridadTarea);
+                tarea.Property(p=>p.FechaCreacion);
+            });
+        }
+
+
+        
     }
 }
