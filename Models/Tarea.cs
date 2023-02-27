@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace Entity_Framework_Platzi.Models
 {
@@ -23,6 +24,8 @@ namespace Entity_Framework_Platzi.Models
         public Prioridad PrioridadTarea { get; set; }
         public DateTime FechaCreacion { get; set; }
         [NotMapped]
+        [JsonIgnore]
+
         public string Resumen { get; set; }
         public virtual Categoria Categoria { get; set; }
     }
